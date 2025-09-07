@@ -11,7 +11,7 @@ Now, I'm focused on completing a rigorous **18-week DevOps Challenge** to become
 
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
-| 📈 **Stock Trading Simulator (A-Level NEA)** | Built a real-time stock trading simulator using live API data, JavaFX GUI, and PostgreSQL backend. Applied OOP and implemented UI interactions. | Java, JavaFX, API, PostgreSQL | ✅ Completed 🔜 Uploading to GitHub (with 2 YouTube demos + 115-page report) |
+| 📈 **Stock Trading Simulator (A-Level NEA)** | Built a real-time stock trading simulator using live API data, JavaFX GUI, and mySQL backend. Applied OOP and implemented UI interactions. | Java, JavaFX, Gradle, RESTFUL API, mySQL | ✅ (https://github.com/arysgithub/Stocky-Trades) |
 | 🎾 **Tennis Player Database (Group Uni Project)** | Designed a fully normalised relational database (3NF) for professional tennis players, including performance stats and match history. | PostgreSQL | ✅ Completed 🔜 Uploading with documentation |
 | 📊 **Smart Data Overview Tool** | Developed a JavaFX application that ingests XML/JSON, extracts data, provides statistical insights, supports edit/re-export, and visualises tables. | JavaFX, Gradle, JSON/XML | 🔜 Uploading with documentation |
 
