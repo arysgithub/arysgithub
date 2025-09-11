@@ -37,7 +37,7 @@ This is my official DevOps Engineering Portfolio documenting my 18-week self-pac
 | Week | Focus                             | Project Repo Link                             | Highlights |
 |------|-----------------------------------|-----------------------------------------------|------------|
 | 1    | Setup & Foundations               | [devops-roadmap](#)                            | DevOps plan, setup, GitHub & LinkedIn |
-| 2    | Linux CLI Mastery                      | [linux-backup-scripts](https://github.com/arysgithub/Linux-cli-mastery)                      | Bash scripting, file perms |
+| 2    | Linux CLI Mastery                      | [linux-CLI-mastery](https://github.com/arysgithub/Linux-cli-mastery)                      | Bash scripting, file perms |
 | 3    | Python Automation                 | [python-folder-cleaner](#)                     | CLI automation tool |
 | 4    | GitHub Actions CI                 | [ci-pipeline-python](#)                        | GitHub Actions workflow |
 | 5-7  | AWS SAA Projects                  | [aws-s3-static-site](#) \| [aws-ec2-instance](#) | S3 hosting, IAM setup |
