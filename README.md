@@ -6,23 +6,18 @@ My journey began with programming in Java and building real-world projects durin
 Now, I'm focused on completing a rigorous **18-week DevOps Challenge** to become a certified, job-ready engineer.
 
 ---
+# Skills (Some Completed, Others In Progress):
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-## 📚 Previous Projects (2023–2025)
+## Previous Projects (2023–2025)
 
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
 | **Stock Trading Simulator (A-Level NEA)** | Built a real-time stock trading simulator using live API data, JavaFX GUI, and mySQL backend. Applied OOP and implemented UI interactions. | Java, JavaFX, Gradle, RESTFUL API, mySQL | ✅ (https://github.com/arysgithub/Stocky-Trades) |
-| 🎾 **Tennis Player Database (Group Uni Project)** | Designed a fully normalised relational database (3NF) for professional tennis players, including performance stats and match history. | PostgreSQL | ✅ Completed 🔜 Uploading with documentation |
+| **Tennis Player Database (Group Uni Project)** | Designed a fully normalised relational database (3NF) for professional tennis players, including performance stats and match history. | PostgreSQL | ✅ Completed 🔜 Uploading with documentation |
 | **Smart Data Management Tool** | Application that allows users to load csv and json files, manipulate, analyse, and visualise data from the files and then export them, through an intuitive chart GUI | JavaFX, Gradle, JSON/XML JUnit |✅ https://github.com/arysgithub/Data-Science-Manager |
 
-> 🔜 *These will be uploaded with README files, diagrams, and demos as part of my GitHub refresh.*
-
 ---
-
-# Skills (Some Completed, Others In Progress):
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-
 # DevOps Engineering Challenge – 18 Weeks 
 
 This is my official DevOps Engineering Portfolio documenting my 18-week self-paced journey to become a certified and job-ready DevOps + Cloud Engineer.
