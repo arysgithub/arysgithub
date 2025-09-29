@@ -1,9 +1,8 @@
 # Hi I'm Aaryan 
 
-I'm a self-driven aspiring DevOps & Cloud Engineer with a passion for building robust, automated, and secure systems — combining a solid academic foundation with hands-on experience.
+I’m a self-driven aspiring DevOps, Cloud & AgenticOps Engineer passionate about building robust, automated, and intelligent systems. My journey combines a solid academic foundation, hands-on programming, and a live 18-week dual challenge in DevOps + Agentic AI.
 
-My journey began with programming in Java and building real-world projects during A-Level and continued into 1st year of University. 
-Now, I'm focused on completing a rigorous **18-week DevOps Challenge** to become a certified, job-ready engineer.
+I started with Java projects during A-Levels and my first year at university, and I’m now focused on completing certifications, projects, and advanced workshops to become a job-ready engineer.
 
 ---
 # Skills (Some Completed, Others In Progress):
@@ -13,14 +12,14 @@ Now, I'm focused on completing a rigorous **18-week DevOps Challenge** to become
 
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
-| **Stock Trading Simulator (A-Level NEA)** | Built a real-time stock trading simulator using live API data, JavaFX GUI, and mySQL backend. Applied OOP and implemented UI interactions. | Java, JavaFX, Gradle, RESTFUL API, mySQL | ✅ (https://github.com/arysgithub/Stocky-Trades) |
-| **Tennis Player Database (Group Uni Project)** | Designed a fully normalised relational database (3NF) for professional tennis players, including performance stats and match history. | PostgreSQL | ✅ Completed 🔜 Uploading with documentation |
-| **Smart Data Management Tool** | Application that allows users to load csv and json files, manipulate, analyse, and visualise data from the files and then export them, through an intuitive chart GUI | JavaFX, Gradle, JSON/XML JUnit |✅ https://github.com/arysgithub/Data-Science-Manager |
+| **Stock Trading Simulator (A-Level NEA)** | Real-time simulator with live API data + JavaFX UI| Java, JavaFX, Gradle, RESTFUL API, mySQL | ✅ (https://github.com/arysgithub/Stocky-Trades) |
+| **Tennis Player Database (Group Uni Project)** | Normalised 3NF DB for pro players & matches | PostgreSQL | ✅ Completed 🔜 Uploading with documentation |
+| **Smart Data Management Tool** | Data import/export + charts + JUnit tests| JavaFX, Gradle, JSON/XML JUnit |✅ https://github.com/arysgithub/Data-Science-Manager |
 
 ---
 # DevOps Engineering Challenge – 18 Weeks 
 
-This is my official DevOps Engineering Portfolio documenting my 18-week self-paced journey to become a certified and job-ready DevOps + Cloud Engineer.
+This is my official DevOps Engineering Portfolio documenting my 18-week self-paced journey to become a certified and job-ready DevOps + Cloud Engineer with Agentic AI specialisation.
 
 >  Start date: 8 September 2025 
 > Goal: Certified DevOps Engineer + Cloud Professional with live projects and exam board certifications. Land a Cloud Engineering role (UK or Global) 
@@ -31,10 +30,10 @@ This is my official DevOps Engineering Portfolio documenting my 18-week self-pac
 
 | Week | Focus                             | Project Repo Link                             | Highlights |
 |------|-----------------------------------|-----------------------------------------------|------------|
-| 1    | Setup & Foundations               | [devops-roadmap](#)                            | DevOps plan, setup, GitHub & LinkedIn |
-| 2    | Linux CLI Mastery                      | [linux-CLI-mastery](https://github.com/arysgithub/Linux-cli-mastery)                      | Bash scripting, file perms |
-| 3    | Python Automation                 | [python-folder-cleaner](#)                     | CLI automation tool |
-| 4    | GitHub Actions CI                 | [ci-pipeline-python](#)                        | GitHub Actions workflow |
+| 1    | Setup & Foundations + Roadmap              | [devops-roadmap](#)                            | DevOps plan, setup, GitHub & LinkedIn |
+| 2    | Python Automation                 | [python-folder-cleaner](#)                     | CLI automation tool |
+| 3    | Linux CLI Mastery                      | [linux-CLI-mastery](https://github.com/arysgithub/Linux-cli-mastery)                      | Bash scripting, file perms |
+| 4    | Python Automation + GitHub Actions CI                 | [python-folder-cleaner](#)  [ci-pipeline-python](#)                    | CLI automation tool + GitHub Actions workflow |
 | 5-7  | AWS SAA Projects                  | [aws-s3-static-site](#) \| [aws-ec2-instance](#) | S3 hosting, IAM setup |
 | 8    | Terraform IaC                     | [terraform-aws-infra](#)                       | EC2 + S3 infra with .tf |
 | 9    | Docker                            | [dockerised-flask-app](#)                      | Dockerfiles, Compose |
@@ -42,26 +41,26 @@ This is my official DevOps Engineering Portfolio documenting my 18-week self-pac
 | 11   | Kubernetes                        | [k8s-minikube-deploy](#)                       | Deploy app via K8s |
 | 12   | Secrets & Monitoring              | [aws-secrets-monitoring](#)                    | AWS SSM + CloudWatch |
 | 13–14| Final Full Project (All Tools)    | [devops-end-to-end](#)                         | Flask → Docker → Terraform → AWS → K8s |
-| 15–18| AgenticOps / MLOps Specialisation  | [devsecops-secure-pipeline](#) \| [mlops-model-deploy](#) | Optional tracks |
+| 15–18| AgenticOps / MLOps Specialisation  | [devsecops-secure-pipeline](#) \| [mlops-model-deploy](#) | Multi-agent workflow, n8n automation, GraphRAG, secure pipelines |
 
 ---
 
 ## Certifications Tracker (In Progress)
 
-- [ ] AWS Solutions Architect Associate
-- [ ] Terraform Associate
-- [ ] Docker Mastery 
-- [ ] Certified Kubernetes Administrator (CKA)
+- [ ] AWS Solutions Architect Associate (Exam: Week 7–8)
+- [ ] Terraform Associate (Exam: Week 9–10)
+- [ ] Docker Mastery Certified Associate (Exam: Week 11–12)
+- [ ] Certified Kubernetes Administrator (CKA) (Exam: Week 14–15)
 
 ---
 
 ## Why This Portfolio Matters
 
 This portfolio tracks my transformation into a fully capable DevOps Engineer. Every repo includes:
-- Working, documented code
-- What I learned + how I applied it
-- Weekly progress proof
-- Real tools used in real DevOps roles
+- Working code + docs + reflections
+- Shows progression from foundations → automation → orchestration → intelligence
+- Blends traditional DevOps with next-gen AgenticOps
+- Real tools used in real DevOps roles - Proof that I can deliver in both Cloud and AI-powered automation environments
 
 ---
 
