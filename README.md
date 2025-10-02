@@ -31,7 +31,7 @@ This is my official DevOps Engineering Portfolio documenting my 18-week self-pac
 | Week | Focus                             | Project Repo Link                             | Highlights |
 |------|-----------------------------------|-----------------------------------------------|------------|
 | 1    | Setup & Foundations + Roadmap              | [devops-roadmap](#)                            | DevOps plan, setup, GitHub & LinkedIn |
-| 2    |Agentic AI conference                 | [Agentic-AI-sessions](#)                     |Cognitive architectures, multi-agent workflows, governance |
+| 2    |Agentic AI conference                 | [Agentic-AI-sessions](https://github.com/arysgithub/Agentic-AI-Conference)                     |Cognitive architectures, multi-agent workflows, governance |
 | 3    | Linux CLI Mastery                      | [linux-CLI-mastery](https://github.com/arysgithub/Linux-cli-mastery)                      | Bash scripting, file perms |
 | 4    | Python Automation + GitHub Actions CI                 | [python-folder-cleaner](#)  [ci-pipeline-python](#)                    | CLI automation tool + GitHub Actions workflow |
 | 5-7  | AWS SAA Projects                  | [aws-s3-static-site](#) \| [aws-ec2-instance](#) | S3 hosting, IAM setup |
